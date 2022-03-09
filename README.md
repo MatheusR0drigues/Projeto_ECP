@@ -32,6 +32,6 @@
 
 <h3>Observação<h3>
 <ul>
-  <li>O aluno Rafael Oliveira Santos, RA: 2102667, foi transferido para o período noturno, se possível comunicar o professor da noite
-  com relação a nota dele.</li>  
+  <li>O aluno Rafael Oliveira Santos, RA: 2102667, foi transferido para o período noturno, se possível comunicar o professor da noite,
+  Fábio Nogueira, com relação a nota dele.</li>  
 </ul>
