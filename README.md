@@ -29,3 +29,9 @@
     <td>2102667</td>
   </tr>
 </table>
+
+<h3>Observação<h3>
+<ul>
+  <li>O aluno Rafael Oliveira Santos, RA: 2102667, foi transferido para o período noturno, se possível comunicar o professor da noite
+  com relação a nota dele.</li>  
+</ul>
