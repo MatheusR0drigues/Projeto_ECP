@@ -13,7 +13,7 @@
     <td>2101970</td>
   </tr>
   <tr>
-    <td>Matheus Rodrigues Gomes</td>]
+    <td>Matheus Rodrigues Gomes</td>
     <td>2102654</td>
   </tr>
   <tr>
