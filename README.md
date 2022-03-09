@@ -1,4 +1,8 @@
-<h1>Integrantes do Projeto</h1>
+<h1>Projeto ECP</h1>
+<p>Esse projeto foi realizado para matéria de Engenharia de Software no segundo semestre na Faculdada IMPACTA.</p>
+
+
+<h2>Integrantes do Projeto</h1>
 <table>
   <tr>
     <th>Aluno</th>
