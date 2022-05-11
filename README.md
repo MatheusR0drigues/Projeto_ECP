@@ -1,5 +1,5 @@
 <h1>Projeto ECP</h1>
-<p>Esse projeto foi realizado para matéria de Engenharia de Software no segundo semestre de Sistemas de Informação e Análise e Desenvolvimento de Sistemas da Faculdada IMPACTA.</p>
+<p>Esse projeto foi realizado para matéria de Engenharia de Software no segundo semestre de Sistemas de Informação e Análise e Desenvolvimento de Sistemas da Faculdade IMPACTA.</p>
 
 
 <h2>Integrantes do Projeto</h1>
